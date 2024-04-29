@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backstage com Docker
 
 ## Pré-requisitos
