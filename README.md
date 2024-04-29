@@ -71,8 +71,8 @@ docker run -it -p 7007:7007 backstage
 ```
 
 **Print da Execução do Container:**
-![Execução do Container](atividadeprog1.png)
-![Execução do Container](atividadeprog2.png)
+![Execução do Container](assets/atividadeprog.png)
+![Execução do Container](assets/atividadeprog2.png)
 
 ### 7. Acesso ao Backstage
 
@@ -83,4 +83,4 @@ http://localhost:7007
 ```
 
 **Print do Acesso ao Backstage:**
-![Acesso ao Backstage](atividadeprog3.png)
+![Acesso ao Backstage](assets/atividadeprog3.png)
